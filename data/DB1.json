@@ -1,0 +1,28 @@
+  {
+    "Employee_ID": {
+        "Technical_name" : "int",
+        "business_name" :"ID del Empleado",
+        "level" : "SPI"
+        },
+    "Name": {
+        "Technical_name" : "string",
+        "business_name" :"Nombre del Empleado",
+        "level" : "SPI"
+    },
+    "Job_title": {
+        "Technical_name" : "string",
+        "business_name" :"Titulo del puesto",
+        "level" : "SPI"
+    },
+    "Department": {
+        "Technical_name" : "int",
+        "business_name" :"Departamento donde esta el empleado cargado",
+        "level" : "SPI"
+    },
+    "Location": {
+        "Technical_name" : "int",
+        "business_name" :"Locacion donde esta el empleado cargado" ,
+        "level" : "SPI"
+    }
+}
+

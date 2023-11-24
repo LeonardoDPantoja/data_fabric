@@ -1,0 +1,95 @@
+{
+    "Ivan": {},
+    "Carlos": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "10/10/2023 10:38:03"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "10/10/2023 10:38:07",
+                "data_accessed": "P&L"
+            },
+            {
+                "action": "login",
+                "timestamp": "23/11/2023 17:23:59"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "23/11/2023 17:24:02",
+                "data_accessed": "Location"
+            }
+        ]
+    },
+    "Paola": {},
+    "Laura": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "09/10/2023 09:28:10"
+            }
+        ]
+    },
+    "Jorge": {
+        "activities": [
+            {
+                "action": "unsucessful_login",
+                "timestamp": "02/10/2023 11:33:48"
+            }
+        ]
+    },
+    "Juan": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "02/10/2023 11:34:24"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "02/11/2023 21:34:28",
+                "data_accessed": "actuals"
+            },
+            {
+                "action": "login",
+                "timestamp": "21/11/2023 15:38:07"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "21/11/2023 15:38:24",
+                "data_accessed": "Location"
+            },
+            {
+                "action": "login",
+                "timestamp": "23/11/2023 17:21:46"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "23/11/2023 17:21:55",
+                "data_accessed": "L&B"
+            },
+            {
+                "action": "login",
+                "timestamp": "23/11/2023 17:23:16"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "23/11/2023 17:23:23",
+                "data_accessed": "Occupancy"
+            },
+            {
+                "action": "login",
+                "timestamp": "23/11/2023 17:23:38"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "23/11/2023 17:23:44",
+                "data_accessed": "Department"
+            }
+        ],
+        "date_hour": [
+            "21/11/2023 16:11:37",
+            "21/11/2023 16:12:09"
+        ]
+    }
+}

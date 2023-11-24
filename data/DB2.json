@@ -1,0 +1,28 @@
+{
+    "Department": {
+        "data_type" : "int",
+        "business_name" :"Departamento donde esta el empleado cargado",
+        "level" : "SPI"
+        },
+    "Location": {
+        "Technical_name" : "int",
+        "business_name" :"Locacion donde esta el empleado cargado",
+        "level" : "SPI"
+    },
+    "Labor&Benefits": {
+        "Technical_name" : "int",
+        "business_name" :"Presupuesto de L&B para ese departamento",
+        "level" : "PI"
+    },
+    "Occupancy": {
+        "Technical_name" : "int",
+        "business_name" :"lPresupuesto de Occupancy para ese departamento",
+        "level" : "PI"
+    },
+    "Others": {
+        "Technical_name" : "int",
+        "business_name" :"aPresupuesto de Others para ese departamento" ,
+        "level" : "PI"
+    }
+}
+

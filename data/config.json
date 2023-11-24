@@ -1,0 +1,18 @@
+{
+    "golden_db1": {
+        "original_name" : "db1",
+        "golden_field1" : "Employee_ID",
+        "golden_field2" : "Name",
+        "golden_field3" : "Job_title",
+        "golden_field4" : "Department",
+        "golden_field5" : "Location"
+    },
+    "golden_db2": {
+        "original_name" : "db2",
+        "golden_field1" : "Department",
+        "golden_field2" : "Location",
+        "golden_field3" : "Labor&Benefits",
+        "golden_field4" : "Occupancy",
+        "golden_field5" : "Others"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Juan":{
+        "id" : "Juan",
+        "profile" : "SPI"
+    },
+    "Carlos":{
+        "id" : "Carlos",
+        "profile" : "PI"
+    }
+}
